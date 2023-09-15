@@ -5,7 +5,7 @@ tags$section(
         First, let's have a look at the individuals who have supported and became a part
         of the StepUp community. These individuals have always been on StepUp's side, and you
         can always count on them. Enough talk, here are the top 20 
-        <span class = 'accent'>all-time</span> individual donors. Testing pulling from git currently.
+        <span class = 'accent'>all-time</span> individual donors. 
         </p>"
   )
 )
