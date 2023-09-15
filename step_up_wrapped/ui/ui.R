@@ -17,7 +17,8 @@ fillPage(
   div(
     id = "fullpage",
     source(file.path("ui", "section1.R"), local = TRUE)$value,
-    source(file.path("ui", "section2.R"), local = TRUE)$value
+    source(file.path("ui", "section2.R"), local = TRUE)$value,
+    source(file.path("ui", "section3.R"), local = TRUE)$value
   ),
   tags$script(
     src = "fullpage.js"
